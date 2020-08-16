@@ -1,6 +1,8 @@
 // Задача №5
 
-const countryName = prompt();
+const countryName = prompt(
+  'Введите название страны, в котрую вы хотите заказать доствку',
+);
 
 const CANCELED_BY_USER = 'Отменено пользователем!';
 const NO_DELIVERY = 'В выбранную страну доставка недоступна.';
