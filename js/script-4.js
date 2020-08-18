@@ -1,4 +1,5 @@
 // Задача №4
+
 const orderPieces = 10;
 
 const credits = 23580;
